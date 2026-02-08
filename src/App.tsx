@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Lock, Unlock, Clock } from 'lucide-react';
 import { TopAdBanner } from './TopAdBanner';
 import { SideAdBanner } from './SideAdBanner';
+import { EndAdBanner } from './EndAdBanner';
 
 function App() {
   const [timeLeft, setTimeLeft] = useState(20);
@@ -157,7 +158,7 @@ function App() {
         <div className="max-w-6xl mx-auto">
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 text-center">
             <p className="text-white font-semibold text-sm">
-              <TopAdBanner/>
+              <EndAdBanner/>
             </p>
           </div>
         </div>
