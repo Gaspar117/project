@@ -35,7 +35,7 @@ function App() {
             <div className="bg-gradient-to-br from-orange-500 to-pink-600 rounded-xl p-6 shadow-xl sticky top-8">
               <p className="text-white font-bold text-center mb-3">ANÚNCIO</p>
               <div className="bg-white/20 backdrop-blur rounded-lg p-4 mb-3">
-                <p className="text-white text-sm text-center">
+                <p>
                   <script async="async" data-cfasync="false" src="https://pl28677954.effectivegatecpm.com/9dd76a137a011c9e4bc9415eb142407d/invoke.js"></script>
                   <div id="container-9dd76a137a011c9e4bc9415eb142407d"></div>
                 </p>
