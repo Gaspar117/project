@@ -157,7 +157,7 @@ function App() {
         <div className="max-w-6xl mx-auto">
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 text-center">
             <p className="text-white font-semibold text-sm">
-              💰 ANÚNCIO - Ofertas especiais esperando por você!
+              <TopAdBanner/>
             </p>
           </div>
         </div>
