@@ -141,7 +141,7 @@ function App() {
                         </li>
                       </ul>
                       <div className="mt-6">
-                        <button onclick="https://www.effectivegatecpm.com/tfzczk9x?key=74f0472b7b21a2ebaffbfd90a383a344;" className="w-full bg-gradient-to-r from-green-600 to-emerald-600 text-white font-bold py-4 px-6 rounded-lg hover:from-green-700 hover:to-emerald-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
+                        <button onclick="window.location.href='https://www.effectivegatecpm.com/tfzczk9x?key=74f0472b7b21a2ebaffbfd90a383a344';" className="w-full bg-gradient-to-r from-green-600 to-emerald-600 text-white font-bold py-4 px-6 rounded-lg hover:from-green-700 hover:to-emerald-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105">
                           Acessar Conteúdo Agora
                         </button>
                       </div>
