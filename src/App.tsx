@@ -22,10 +22,17 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
       <div className="w-full bg-gradient-to-r from-blue-600 to-purple-600 p-3 shadow-lg">
         <div className="max-w-6xl mx-auto">
-          <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 text-center">
-            <p className="text-white font-semibold text-sm">
-              🎯 ANÚNCIO - Clique aqui para descobrir ofertas incríveis!
-            </p>
+          <div>
+            <script>
+  atOptions = {
+    'key' : 'b05cf5b7f75e737c3e4f0502dc9492dc',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/b05cf5b7f75e737c3e4f0502dc9492dc/invoke.js"></script>
           </div>
         </div>
       </div>
