@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Lock, Unlock, Clock } from 'lucide-react';
+import { TopAdBanner } from './TopAdBanner';
 
 function App() {
   const [timeLeft, setTimeLeft] = useState(20);
@@ -23,16 +24,7 @@ function App() {
       <div className="w-full bg-gradient-to-r from-blue-600 to-purple-600 p-3 shadow-lg">
         <div className="max-w-6xl mx-auto">
           <div>
-            <script>
-  atOptions = {
-    'key' : 'b05cf5b7f75e737c3e4f0502dc9492dc',
-    'format' : 'iframe',
-    'height' : 90,
-    'width' : 728,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highperformanceformat.com/b05cf5b7f75e737c3e4f0502dc9492dc/invoke.js"></script>
+            <TopAdBanner/>
           </div>
         </div>
       </div>
