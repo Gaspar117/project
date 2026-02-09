@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Lock, Unlock, Clock } from 'lucide-react';
 import { TopAdBanner } from './TopAdBanner';
 import { SideAdBanner } from './SideAdBanner';
-import { EndpAdBanner } from './EndAdBanner.tsx';
+import { EndAdBanner } from './EndAdBanner.tsx';
 
 
 function App() {
@@ -148,7 +148,7 @@ function App() {
             <div className="bg-gradient-to-br from-green-500 to-teal-600 rounded-xl p-6 shadow-xl sticky top-8">
               <p className="text-white font-bold text-center mb-3">ANÚNCIO</p>
               <div className="bg-white/20 backdrop-blur rounded-lg p-4 mb-3">
-                <EndpAdBanner />
+                <EndAdBanner />
               </div>
             </div>
           </aside>
