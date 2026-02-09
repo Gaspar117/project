@@ -152,6 +152,7 @@ function App() {
               <p className="text-white font-bold text-center mb-3">ANÚNCIO</p>
               <div className="bg-white/20 backdrop-blur rounded-lg p-4 mb-3">
                 <EndAdBanner />
+                <br />
                 <MeioAd/>
               </div>
             </div>
