@@ -48,7 +48,7 @@ function App() {
           <main className="lg:col-span-6">
             <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
               <div className="bg-gradient-to-r from-indigo-600 to-purple-600 p-6">
-              <MeioAd/>
+              
                 <h1 className="text-3xl font-bold text-white text-center">
                   Conteúdo Protegido
                 </h1>
@@ -152,6 +152,7 @@ function App() {
               <p className="text-white font-bold text-center mb-3">ANÚNCIO</p>
               <div className="bg-white/20 backdrop-blur rounded-lg p-4 mb-3">
                 <EndAdBanner />
+                <MeioAd/>
               </div>
             </div>
           </aside>
