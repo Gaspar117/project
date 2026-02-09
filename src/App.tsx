@@ -48,12 +48,12 @@ function App() {
           <main className="lg:col-span-6">
             <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
               <div className="bg-gradient-to-r from-indigo-600 to-purple-600 p-6">
+              <MeioAd/>
                 <h1 className="text-3xl font-bold text-white text-center">
                   Conteúdo Protegido
                 </h1>
               </div>
 
-              <MeioAd/>
 
               <div className="p-8">
                 {!isUnlocked ? (
