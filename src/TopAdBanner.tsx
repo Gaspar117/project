@@ -32,7 +32,7 @@ export function TopAdBanner() {
         }
       : {
           // --- DESKTOP (728x90) ---
-          'key': 'b05cf5b7f75e737c3e4f0502dc9492dc',
+          'key': 'a7189f063339abb3ac5dfb5807a32d1b',
           'format': 'iframe',
           'height': 90,
           'width': 728,
