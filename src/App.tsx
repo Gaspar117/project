@@ -3,6 +3,7 @@ import { Lock, Unlock, Clock } from 'lucide-react';
 import { TopAdBanner } from './TopAdBanner';
 import { SideAdBanner } from './SideAdBanner';
 import { EndAdBanner } from './EndAdBanner.tsx';
+import { MeioAd } from './MeioAd.tsx';
 
 
 function App() {
@@ -51,6 +52,8 @@ function App() {
                   Conteúdo Protegido
                 </h1>
               </div>
+
+              <MeioAd/>
 
               <div className="p-8">
                 {!isUnlocked ? (
