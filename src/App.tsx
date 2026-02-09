@@ -53,7 +53,7 @@ function App() {
                   Conteúdo Protegido
                 </h1>
               </div>
-
+                <EndAdBanner />
 
               <div className="p-8">
                 {!isUnlocked ? (
