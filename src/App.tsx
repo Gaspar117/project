@@ -43,7 +43,7 @@ function App() {
               
             </div>
           </aside>
-
+          <EndAdBanner />
           <main className="lg:col-span-6">
             <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
               <div className="bg-gradient-to-r from-indigo-600 to-purple-600 p-6">
