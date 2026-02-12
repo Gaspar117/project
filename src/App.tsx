@@ -28,7 +28,7 @@ function App() {
       <div className="w-full bg-gradient-to-r from-blue-600 to-purple-600 p-3 shadow-lg">
         <div className="max-w-6xl mx-auto">
           <div>
-            <TopAdBanner/>
+            
           </div>
         </div>
       </div>
@@ -153,7 +153,7 @@ function App() {
               <div className="bg-white/20 backdrop-blur rounded-lg p-4 mb-3">
                 <EndAdBanner />
                 <br />
-                <MeioAd/>
+                
               </div>
             </div>
           </aside>
